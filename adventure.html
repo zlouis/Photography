@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<!-- stylesheet// -->
+<link rel="stylesheet" type="text/css" href="assets/css/adventure.css">
+
+<!--masonry-->
+<!-- <link type="text/javascript" href="assets/javascript/masonry.js"> -->
+<!-- masonry with jquery -->
+<script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.js"></script>
+
+<!--jquery plugin-->
+<script   src="https://code.jquery.com/jquery-3.1.1.slim.min.js"   integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="   crossorigin="anonymous"></script>
+<!--masonry-->
+<script src="/path/to/masonry.pkgd.min.js"></script>
+
+
+
+
+<!-- http://placehold.it/291x363 -->
+<head>
+  <title>Adventure</title>
+
+</head>
+
+
+
+<body>
+
+
+<!-- <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }'> -->
+<div class="container">
+  <div id="grid">
+
+      <div class="grid-item"> <img src="http://placehold.it/291x363"> </div>
+      <div class="grid-item"> <img src="http://placehold.it/291x163"> </div>
+      <div class="grid-item"> <img src="http://placehold.it/291x263"> </div>
+      <div class="grid-item"> <img src="http://placehold.it/291x200"> </div> 
+
+
+      </div><!--end masonry grid-->
+</div><!--end container-->
+<script>
+$(document).ready(function (){
+  $('#grid').masonry ({
+    itemSelector: 'grid-item',
+    columnWidth: 200
+  });
+})
+
+</script>
+
+</body>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://code.jquery.com/jquery.js"></script>
+<!--   -->
+</html>
