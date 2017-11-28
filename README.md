@@ -6,3 +6,6 @@ A personal photography website thats in the works.
 1/22 -
 Adding text hover to images
 Create album of hover images to be displayed on same page
+
+11/28 
+revisiting project
