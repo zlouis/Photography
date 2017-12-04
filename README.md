@@ -14,3 +14,4 @@ revisiting project
 planning additional album features
   - add album
   - new alignment of album (css)
+  - text along side pictures(story telling)
