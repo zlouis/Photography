@@ -15,3 +15,7 @@ planning additional album features
   - add album
   - new alignment of album (css)
   - text along side pictures(story telling)
+  -
+ 
+ 1/5/18
+ add new album
