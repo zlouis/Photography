@@ -19,3 +19,7 @@ planning additional album features
  
  1/5/18
  add new album
+ 
+ 2/7/18
+ update layout and route
+ Add comment/story board
