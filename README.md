@@ -23,3 +23,7 @@ planning additional album features
  2/7/18
  update layout and route
  Add comment/story board
+ 3/18
+ fixed header layout
+ added css to header links
+ todo: adventure album fix
