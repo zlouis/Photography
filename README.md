@@ -17,13 +17,17 @@ planning additional album features
   - text along side pictures(story telling)
   -
  
- 1/5/18
- add new album
- 
- 2/7/18
- update layout and route
- Add comment/story board
+4/5/18
+Footer
+
  3/18
  fixed header layout
  added css to header links
  todo: adventure album fix
+ 
+ 2/7/18
+ update layout and route
+ Add comment/story board
+ 
+ 1/5/18
+ add new album
